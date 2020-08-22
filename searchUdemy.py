@@ -30,8 +30,7 @@ cleaned_csv = zip(title, price, subscribers, reviews, review_percent, length)
 output_file = os.path.join("resources", "Cleaned_Udemy_Web_Course.csv")
 
 # Open the output file
-with open(output_file, "w") as datafile:
+with open(output_file, "w", newline='') as datafile:
     writer = csv.writer(datafile)
     writer.writerow(["Title", "Course Price", "Subscribers", "Reviews Left", "Percent of Reviews", "Length of Course"])
-
     writer.writerows(cleaned_csv)
