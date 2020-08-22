@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/52837649/90966207-c12a6180-e49d-11ea-99ce-f0dbed2fbe18.png)
 
 ## Task
-1. Create a Python application that reads the data on Udemy csv file
+1. Create a Python application that reads the data on Udemy CSV file
 
 2. Store the contents of the Title, Price, Subscriber Count, Number of Reviews, and Course Length into Python Lists
 
