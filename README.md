@@ -3,6 +3,12 @@
 ## Start File
 ![image](https://user-images.githubusercontent.com/52837649/90966207-c12a6180-e49d-11ea-99ce-f0dbed2fbe18.png)
 
+## Task
+* Create a Python application that reads the data on Udemy csv file
+* Store the contents of the Title, Price, Subscriber Count, Number of Reviews, and Course Length into Python Lists
+* Zip these lists together into a single tuple
+* Write the contents of the extracted data into a CSV
+
 ## Finished File
 ![image](https://user-images.githubusercontent.com/52837649/90966659-fc7b5f00-e4a2-11ea-8b06-ee9ab180d3d7.png)
 
